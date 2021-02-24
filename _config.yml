@@ -15,12 +15,14 @@ timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Human Developer DeokHwi Kim                    # the main title
+title: 인간 개발자 김덕휘                     # the main title
 
-tagline: level up  # it will display as the sub-title
+tagline: 레벨 업 중입니다  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  levelup
+  레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 
+  레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 
+  레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://thekeykim.github.io'
@@ -34,7 +36,7 @@ twitter:
   username: -           # change to your twitter username
 
 social:
-  name: thekeykim                 # it will shows as the copyright owner in Footer
+  name: 김덕휘                  # it will shows as the copyright owner in Footer
   email: df1097@naver.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
