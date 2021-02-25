@@ -3,9 +3,7 @@ permalink: robots.txt
 # The robots rules
 ---
 
-User-agent: thekeykim
-
+User-agent: *
 Allow : /
-
 Sitemap: http://thekeykim.github.io/sitemap.xml
 
