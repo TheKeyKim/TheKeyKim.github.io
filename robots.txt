@@ -3,8 +3,9 @@ permalink: robots.txt
 # The robots rules
 ---
 
-User-agent: *
+User-agent: thekeykim
 
-Disallow: /norobots/
+Allow : /
 
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: http://thekeykim.github.io/sitemap.xml
+
