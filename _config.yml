@@ -44,6 +44,13 @@ social:
     - https://www.facebook.com/profile.php?id=100003536463859
     # - https://www.linkedin.com/in/username
 
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
