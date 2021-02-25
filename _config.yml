@@ -20,9 +20,7 @@ title: 인간 개발자 김덕휘                     # the main title
 tagline: 레벨 업 중입니다  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 
-  레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 
-  레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 레벨 업 
+개발자 성장, 알고리즘 풀이, 공부 궤적, 개인 생활, 될 대로 될 때까지.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://thekeykim.github.io'
