@@ -1,0 +1,4 @@
+User-agent: *
+Allow : /
+Sitemap: http://thekeykim.github.io/sitemap.xml
+
